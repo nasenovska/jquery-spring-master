@@ -1,0 +1,9 @@
+.form-container {
+    margin: 120px auto;
+    width: 40%;
+    padding: 60px;
+}
+
+div .form-group + .form-group {
+    margin-top: 12px;
+}
